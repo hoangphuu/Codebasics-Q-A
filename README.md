@@ -25,7 +25,7 @@ This is an end to end LLM project based on Google Palm and Langchain. We are bui
 ```bash
   git clone https://github.com/hoangphuu/Codebasics-Q-A
 ```
-2. Install the required dependencies using pip:
+2.Install the required dependencies using pip:
 
 ```bash
   pip install -r requirements.txt
